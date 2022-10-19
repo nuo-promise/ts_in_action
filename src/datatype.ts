@@ -1,5 +1,6 @@
 // 原始类型
 let bool: boolean = true
+// 联合数据类型
 let num: number | undefined | null = 123
 let str: string = 'abc'
 
